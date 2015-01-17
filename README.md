@@ -19,3 +19,7 @@ split('"(", <-- ignore that paren', ',')
 strings.  defaults to `['(', ')'], ['[', ']'], ['"', '"', true],
 ["'", "'", true]`. If the 3rd item in the array is truthy, the split will
 ignore all other pairs until the current pair is closed.
+
+## License
+
+[MIT](./LICENSE)
